@@ -216,7 +216,7 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--white);
     background-color: #333;
     padding: 2rem;
-    background: url(../IMG/rowing.jpeg) no-repeat center center/cover;
+    background: url(../img/rowing.jpeg) no-repeat center center/cover;
     position: relative;
     width: 100%;
 }
